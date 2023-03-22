@@ -1,3 +1,2 @@
-﻿double NumnerA = 12;
-double NumberB = 10;
-Console.WriteLine(NumnerA / NumberB);
+﻿int NumberA = new Random().Next(1, 10);
+Console.WriteLine(NumberA.ToString());
